@@ -12,7 +12,7 @@ const config = {
   },
 
   url: 'https://deepudgowda.github.io',
-  baseUrl: '/my-multidoc-site/',
+  baseUrl: '/',
 
   organizationName: 'DeepuDGowda',
   projectName: 'my-multidoc-site',
