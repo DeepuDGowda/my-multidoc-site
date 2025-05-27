@@ -1,10 +1,10 @@
+/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 module.exports = {
   tutorialSidebar: [
     {
       type: 'category',
       label: 'Guides',
       items: [
-        'guides/intro',
         'guides/Introduction',
         'guides/Change the status',
         'guides/Confirmation',
